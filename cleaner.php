@@ -4,7 +4,7 @@
  *
  * @author Yvan Taviaud - Dugwood - www.dugwood.com
  * @since 01/04/2007
- */
+**/
 /* Direct call forbidden */
 if (!defined('CLICKHEAT_LANGUAGE'))
 {
@@ -37,7 +37,7 @@ if (strpos($_SERVER['REQUEST_URI'], 'debugjs') !== false)
 
 if (IS_PIWIK_MODULE === true)
 {
-	$clickheatConf = Piwik_ClickHeat_Controller::conf();
+	$clickheatConf = self::conf();
 }
 
 $deletedFiles = 0;
