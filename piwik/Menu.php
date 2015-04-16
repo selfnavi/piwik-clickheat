@@ -4,6 +4,8 @@
  *
  * @link http://www.dugwood.com/clickheat/index.html
  * @license http://www.gnu.org/licenses/gpl-3.0.html Gpl v3 or later
+ * @author YAMAMOTO Takashi - yamachan@piwikjapan.org
+ * @since 2015/4/16
  * @version $Id$
  *
  * @package Piwik\Plugins\ClickHeat
