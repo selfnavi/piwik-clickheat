@@ -49,7 +49,7 @@
         "LANG_JAVASCRIPT_GROUP3" : "foloseste adresa paginii (<a href=\"http://www.Dugwood.com/clickheat/performance.html\" onclick=\"window.open(this.href, 'external');return false\">nu este recomandat</a>)",
         "LANG_JAVASCRIPT_PASTE" : "Copiaza codul de mai jos in codul paginilor tale, chiar la sfarsitul paginii (inainte de &lt;/body&gt;):",
         "LANG_JAVASCRIPT_DEBUG" : "Din momentul in care a fost copiat codul, nu uita sa-l testezi pentru a verifica daca functioneaza corect. Foloseste variabila <span class=\"error\">?debugclickheat</span>. De exemplu: http://www.site-demo.com/index.html - tasteaza in browser http://www.site-demo.com/index.html<span class=\"error\">?debugclickheat</span>. Vei vedea un mesaj care arata modul de functionare al aplicatiei. Daca ai o problema, te rugam sa ne contactezi",
-	    "LANG_NO_CLICK_BELOW" : "Leave below in English please",
+        "LANG_NO_CLICK_BELOW" : "Leave below in English please",
         "LANG_NO_CLICK_BELOW" : "No clicks recorded beneath this line",
         "LANG_ERROR_GROUP" : "Grup necunoscut. _JAVASCRIPT_",
         "LANG_ERROR_DATA" : "Nu exista inregistrari pentru perioada selectata (incearca sa scoti diferite filtre: browser, marime ecran). _JAVASCRIPT_",

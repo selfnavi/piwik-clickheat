@@ -49,7 +49,7 @@
         "LANG_JAVASCRIPT_GROUP3" : "site adresi kullan (<a href=\"http://www.Dugwood.com/clickheat/performance.html\" onclick=\"window.open(this.href, 'external');return false\">önerilmez</a>)",
         "LANG_JAVASCRIPT_PASTE" : "Alt kısımda görünen kodu kopyalayıp kayıt altına almak istediğiniz sayfaların bitiminden önce ekleyin (&lt;/body&gt; komutundan önce):",
         "LANG_JAVASCRIPT_DEBUG" : "Size verilen kodu sitenize ekleme işleminin ardından kodun çalıp çalışmadığını <span class=\"error\">debugclickheat</span> komutu ile test edin. Örnek: http://www.site.com/index.html sitesine kodu ekledi iseniz şu adrese ulaşın http://www.site.com/index.html<span class=\"error\">?debugclickheat</span>. Clickheat tarafından oluşturlan bir ileti görmelisiniz. Bir hata ile karşılaşırsanız lütfen bizimle iletişime geçin",
-	    "LANG_NO_CLICK_BELOW" : "Leave below in English please",
+        "LANG_NO_CLICK_BELOW" : "Leave below in English please",
         "LANG_NO_CLICK_BELOW" : "No clicks recorded beneath this line",
         "LANG_ERROR_GROUP" : "Bilinmeyen grup. _JAVASCRIPT_",
         "LANG_ERROR_DATA" : "Seçilen süreçte kayıt bulunamadı (filtreleri kaldırmayı deneyin: tarayıcı, ekran boyutu). _JAVASCRIPT_",

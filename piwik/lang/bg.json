@@ -49,7 +49,7 @@
         "LANG_JAVASCRIPT_GROUP3" : "използван адрес на страницата(<a href=\"http://www.Dugwood.com/clickheat/performance.html\" onclick=\"window.open(this.href, 'external');return false\">непрепорачително</a>)",
         "LANG_JAVASCRIPT_PASTE" : "Copy and paste кода в долната част на вашата страницата, точно преди краят на страницата (преди &lt;/body&gt; tag):",
         "LANG_JAVASCRIPT_DEBUG" : "веднаж поставен кода във вашата страница, незабравяите да тествате дали работи, извикваики вашата страница с паранетри <span class=\"error\">debugclickheat</span>. За принер http://www.site.com/index.html извиква http://www.site.com/index.html<span class=\"error\">?debugclickheat</span>. Трябва да видите съобщенир от мястото на Clickheat.  Ако има проблем, свържете се с наз",
-	    "LANG_NO_CLICK_BELOW" : "Leave below in English please",
+        "LANG_NO_CLICK_BELOW" : "Leave below in English please",
         "LANG_NO_CLICK_BELOW" : "No clicks recorded beneath this line",
         "LANG_ERROR_GROUP" : "Непозната група. _JAVASCRIPT_",
         "LANG_ERROR_DATA" : "няма логове за избрания период (първо махнете филтрите: браузера, ширината на монитора). _JAVASCRIPT_",

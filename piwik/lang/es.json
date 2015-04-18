@@ -49,7 +49,7 @@
         "LANG_JAVASCRIPT_GROUP3" : "Usar la dirección de la página web (<a href=\"http://www.Dugwood.com/clickheat/performance.html\" onclick=\"window.open(this.href, 'external');return false\">no recomendado</a>)",
         "LANG_JAVASCRIPT_PASTE" : "Copie y pegue el código de debajo en sus páginas, justo antes del final de la página (antes de la etiqueta &lt;/body&gt;):",
         "LANG_JAVASCRIPT_DEBUG" : "Una vez que ha pegado el código en sus páginas, no se olvide comprobar si el código funciona correctamente, llamando a su página con el parámetro <span class=\"error\">debugclickheat</span>. Por ejemplo, para http://www.site.com/index.html use http://www.site.com/index.html<span class=\"error\">?debugclickheat</span>. Debería ver un mensaje mostrando el estado de Clickheat. Si encuentra algún problema, no dude en ponerse en contacto con nosotros.",
-	    "LANG_NO_CLICK_BELOW" : "Leave below in English please",
+        "LANG_NO_CLICK_BELOW" : "Leave below in English please",
         "LANG_NO_CLICK_BELOW" : "No hay click por debajo de esta linea",
         "LANG_ERROR_GROUP" : "Grupo desconocido. _JAVASCRIPT_",
         "LANG_ERROR_DATA" : "Sin registros para el periodo seleccionado (Valore quitar filtros: navegador, tamaño de pantalla). _JAVASCRIPT_",

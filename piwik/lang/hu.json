@@ -49,7 +49,7 @@
         "LANG_JAVASCRIPT_GROUP3" : "az oldal webcíme (<a href=\"http://www.Dugwood.com/clickheat/performance.html\" onclick=\"window.open(this.href, 'external');return false\">nem ajánlott</a>)",
         "LANG_JAVASCRIPT_PASTE" : "Másold és illeszd be az alábbi kódot a weboldalad forrásának végére (a &lt;/body&gt; elé):",
         "LANG_JAVASCRIPT_DEBUG" : "Az oldal módosítása után ellenőrizheted a program működését a <span class=\"error\">debugclickheat</span> paraméter segítségével. Például a következő oldal esetében: http://www.site.com/index.html, így: http://www.site.com/index.html<span class=\"error\">?debugclickheat</span>. Ha minden rendben van, akkor az oldalon a Clickheat állapotára vonatkozó információk jelennek meg. Ha bármilyen problémát tapasztalsz, vedd fel a kapcsolatot velünk",
-	    "LANG_NO_CLICK_BELOW" : "Leave below in English please",
+        "LANG_NO_CLICK_BELOW" : "Leave below in English please",
         "LANG_NO_CLICK_BELOW" : "No clicks recorded beneath this line",
         "LANG_ERROR_GROUP" : "Nem létező csoport. _JAVASCRIPT_",
         "LANG_ERROR_DATA" : "Nincsenek adatok a kiválasztott időszakra vonatkozóan (próbálj állítani a szűrőkön: böngésző, képernyőméret). _JAVASCRIPT_",

@@ -49,7 +49,7 @@
         "LANG_JAVASCRIPT_GROUP3" : "użyj adresu strony (<a href=\"http://www.Dugwood.com/clickheat/performance.html\" onclick=\"window.open(this.href, 'external');return false\">nie zalecane</a>)",
         "LANG_JAVASCRIPT_PASTE" : "Skopiuj i wklej poniższy kod do źródła swojej strony, zaraz przed końcem ciała dokumentu (before &lt;/body&gt; tag):",
         "LANG_JAVASCRIPT_DEBUG" : "Po wklejeniu kodu nie zapomnij go przetstować. Aby to zrobić wywołaj stronę z parametrem <span class=\"error\">debugclickheat</span>. Na przykład dla adresu: http://www.strona.com/index.html wywołaj http://www.strona.com/index.html<span class=\"error\">?debugclickheat</span>. Powinieneś zobaczyć komunikat z informacją o stanie systemu ClickHeat. Jeśli spotkasz się z problemem, możesz śmiało poprosić nas o pomoc.",
-	    "LANG_NO_CLICK_BELOW" : "Leave below in English please",
+        "LANG_NO_CLICK_BELOW" : "Leave below in English please",
         "LANG_NO_CLICK_BELOW" : "No clicks recorded beneath this line",
         "LANG_ERROR_GROUP" : "Nieznana groupa. _JAVASCRIPT_",
         "LANG_ERROR_DATA" : "Brak kliknięć w zaznaczonym okresie (spróbuj usunąć filtrowanie: przeglądarka, rozdzielczość). _JAVASCRIPT_",
