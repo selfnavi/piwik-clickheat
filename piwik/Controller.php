@@ -63,7 +63,7 @@ class Controller extends \Piwik\Plugin\Controller
 		require_once (CLICKHEAT_CONFIG);
 		/** Specific definitions */
 		$clickheatConf['__screenSizes'] = array(0 /** Must start with 0 */, 640, 800, 1024, 1280, 1440, 1600, 1800);
-		$clickheatConf['__browsersList'] = array('all' => '', 'firefox' => 'Firefox', 'msie' => 'Internet Explorer', 'safari' => 'Safari', 'opera' => 'Opera', 'kmeleon' => 'K-meleon', 'unknown' => '');
+		$clickheatConf['__browsersList'] = array('all' => '', 'firefox' => 'Firefox', 'chrome' => 'Google Chrome',  'msie' => 'Internet Explorer', 'safari' => 'Safari', 'opera' => 'Opera', 'kmeleon' => 'K-meleon', 'unknown' => '');
 
 		self::conf($clickheatConf);
 	}
