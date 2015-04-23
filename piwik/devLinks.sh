@@ -1,6 +1,6 @@
 #!/bin/sh
 PIWIKDIR=/var/www/piwik/scratch/plugins/ClickHeat
-LMBASEDIR=/export/piwik/clickheat/piwik-clickheat
+LMBASEDIR=/export/piwik/clickheat/clickheat-selfnavi
 #PIWIKDIR=/data/projects/piwik/plugins/ClickHeat
 #LMBASEDIR=/data/projects/clickheat/piwik
 LMDIR=$LMBASEDIR
