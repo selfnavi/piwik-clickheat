@@ -29,7 +29,7 @@ do
 done;
 
 LMDIR="$LMBASEDIR/piwik"
-FILES="*.php templates lang .htaccess plugin.json Menu.php config.piwik.php README.md screenshots INSTALL"
+FILES="*.php templates lang dot_htaccess plugin.json Menu.php config.piwik.php README.md screenshots INSTALL"
 
 cd $LMDIR
 if [ "$PWD" != "$LMDIR" ]; then
